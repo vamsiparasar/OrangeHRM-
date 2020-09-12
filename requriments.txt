@@ -1,0 +1,7 @@
+pip install selenium==3.141.0
+
+
+if Yor are using Chrome browser use Chromedriver:-https://sites.google.com/a/chromium.org/chromedriver/
+
+
+if Yor are using FireFox browser use geckodriver:-https://firefox-source-docs.mozilla.org/testing/geckodriver/Support.html
